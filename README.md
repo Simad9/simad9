@@ -1,2 +1,8 @@
-### My GitHub Stats
-<a href="https://github.com/DimasPramantya" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DimasPramantya&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=84cc16&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+# Hello All ! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Waving Hand Medium-Light Skin Tone" width="40" height="40" />
+My name is Wijdan Akhmad S, i'm a Informatics student at Yogyakarta Veterans National Development University (UPN YK).
+
+### 🖥️ Language and Tools:
+![Language](https://skillicons.dev/icons?i=cpp,html,css,js,php,bootstrap,tailwind,alpinejs)
+![Software](https://skillicons.dev/icons?i=ae,ps,blender,figma)
+### 📝 My GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simad9&theme=onedark&compact=true&layout=compact)
