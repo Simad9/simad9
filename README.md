@@ -2,7 +2,8 @@
 My name is Wijdan Akhmad S, i'm a Informatics student at Yogyakarta Veterans National Development University (UPN YK).
 
 ### 🖥️ Language and Tools:
-![Language](https://skillicons.dev/icons?i=cpp,html,css,js,php,bootstrap,tailwind,alpinejs)
+![Language](https://skillicons.dev/icons?i=cpp,html,css,js,php,bootstrap,tailwind,alpinejs)<br>
 ![Software](https://skillicons.dev/icons?i=ae,ps,blender,figma)
+
 ### 📝 My GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simad9&theme=onedark&compact=true&layout=compact)
